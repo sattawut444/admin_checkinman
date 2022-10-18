@@ -1,0 +1,164 @@
+.fort-knit {
+    font-family: Kanit
+}
+.bg-auth {
+    background-color: #1a1515;
+}
+/* ---------- End ---------- */
+
+/* TEXT COLOR STYLE */
+.ck-text-orange {
+  color: #f05a28;
+}
+.ck-text-green {
+  color: #00A69C !important;
+}
+.ck-text-red {
+  color: #d80027;
+}
+.text-color:hover {
+    color: #e2641b;
+}
+.ck-text-wict {
+    color: #efefef;
+}
+/* ---------- End ---------- */
+.ck-center {
+    text-align: center;
+}
+.ck-right {
+    text-align:right
+}
+.ck-left {
+    text-align: left;
+}
+.size {
+    font-size: 37px;
+}
+.box-size {
+    width: 90%
+}
+.shadow {
+    -webkit-box-shadow: 0 30px 50px rgba(0,0,0,.2);
+    box-shadow: 0 30px 50px rgba(0,0,0,.2);
+}
+.color {
+    color: #a56bf1;
+}
+/* ---------- End ---------- */
+    /* Input Email */
+input.ck-input {
+
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 25px;
+    
+    color: #020202;
+    border-radius: 5px;
+    border: 2px solid #f8f8fa;
+    background: #b8b8f067;
+    padding-left: 10%;
+}
+input.ck-input:hover {
+    box-sizing: border-box;
+    border: 2px solid #f05a28;
+}
+input.ck-input:focus {
+    box-shadow: unset;
+    border: 2px solid #f05a28;
+}
+input.ck-input:disabled {
+    background: #efefef;
+}
+/* ---------- END ----------- */
+
+    /* Input Password */
+input.ck-input-password {
+
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 25px;
+
+    /* Input */
+    color: #ffffff;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 2px solid #f8f8fa;
+    background: #b8b8f067;
+    padding-left: 10%;
+}
+/* ---------- end ----------*/
+    /* Image */
+input.ck-image-password {
+    background: url(../public/assets/images/icons/password.png) no-repeat;
+    width: 20px;
+    height: 20px;
+    display: block;
+    position: absolute;
+    /* left: 92%; */
+    margin-top: 12px;
+}
+input.ck-image-pass {
+    background: url(../public/assets/images/icons/shield.gif) no-repeat;
+    width: 20px;
+    height: 20px;
+    display: block;
+    position: absolute;
+    /* left: 92%; */
+    margin-top: 12px;
+}
+input.ck-input-password:hover {
+    box-sizing: border-box;
+    border: 2px solid #f05a28;
+}
+input.ck-input-password:focus {
+    box-shadow: unset;
+    border: 2px solid #f05a28;
+}
+input.ck-input:disabled {
+    background: #efefef;
+}
+/* ---------- end ---------- */
+
+    /* Submit */
+.ck-btn-orange {
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 50px;
+    border-radius: 7px;
+}
+
+.ck-btn-orange {
+    font-weight: 300;
+    font-size: 20px;
+    width: 80%;
+    height: 50px;
+    border-radius: 15px;
+    background: linear-gradient(180deg, #f1eef3 0%, #030303 100%) !important;
+    color: #fcf9f9 !important;
+}
+/* TEXT COLOR STYLE */
+.ck-text-orange {
+    color: #f05a28;
+}
+.ck-text-green {
+    color: #00A69C !important;
+}
+.ck-text-red {
+    color: #d80027;
+}
+
+/* ---------- end ---------- */
+
+/* .ck-icons-lock {
+    display: inline-flex;
+    background: url(../public/assets/images/icons/password.gif) no-repeat center
+      right transparent;
+  } */
+  
+.div1 {
+
+    display: block;
+    border: 3px solid rgb(0, 0, 0);
+
+}

@@ -1,0 +1,130 @@
+.colored-toast.swal2-icon-success {
+    margin-top: 3%;
+    background-color: #a5dc86 !important;
+  }
+.swal-name {
+    background-color: #a5dc86 !important;
+  }
+.icon-user{
+    margin-top: 10%;
+    margin: 0 auto;
+  }
+.name{
+    margin-top: 10px;
+    width: 60%;
+    margin-bottom: 10px;
+    padding-left: 70px;
+    font-family: Kanit;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    box-shadow: 10px 10px 5px rgba(128, 128, 128, 0.179);
+    background: url(../public/assets/images/icons/icon-user-35.png) no-repeat center
+      left 20px rgb(253, 253, 253) ;
+    /* border: 2px solid rgba(78, 74, 74, 0.871); */
+
+    /* background-color: #a5dc86; */
+}
+.email{
+    width: 60%;
+    padding-left: 70px;
+    padding-top: 3%;
+    font-family: Kanit;
+    padding-bottom: 3%;
+    box-shadow: 10px 10px 5px rgba(128, 128, 128, 0.179);
+    background: url(../public/assets/images/icons/icon-email-35.png) no-repeat center
+    left 20px rgb(253, 253, 253) ;
+}
+.password{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 60%;
+    padding-left: 70px;
+    padding-top: 3%;
+    font-family: Kanit;
+    padding-bottom: 3%;
+    box-shadow: 10px 10px 5px rgba(128, 128, 128, 0.179);
+    background: url(../public/assets/images/icons/icon-passwords-35.png) no-repeat center
+     left 20px rgb(253, 253, 253)
+}
+.confirm{
+    padding-left: 50%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 60%;
+    padding-left: 70px;
+    padding-top: 3%;
+    font-family: Kanit;
+    padding-bottom: 3%;
+    box-shadow: 10px 10px 5px rgba(128, 128, 128, 0.179);
+    background: url(../public/assets/images/icons/icon-confirm-35.png) no-repeat center
+      left 20px rgb(253, 253, 253) ;
+}
+
+.age{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 60%;
+    margin-left: 20%;
+    padding-left: 60px;
+    padding-top: 3%;
+    font-family: Kanit;
+    padding-bottom: 3%;
+    box-shadow: 10px 10px 5px rgba(128, 128, 128, 0.179);
+    background: url(../public/assets/images/icons/icon-age-35.png) no-repeat center
+     left 20px rgb(253, 253, 253)
+}
+.position{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 60%;
+    padding-left: 70px;
+    padding-top: 3%;
+    font-family: Kanit;
+    padding-bottom: 3%;
+    box-shadow: 10px 10px 5px rgba(128, 128, 128, 0.179);
+    background: url(../public/assets/images/icons/icon-position-35.png) no-repeat center
+     left 20px rgb(253, 253, 253)
+}
+.birthday{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    /* text-align: center; */
+    width: 60%;
+    padding-left: 70px;
+    padding-right: 20px;
+    padding-top: 3%;
+    font-family: Kanit;
+    padding-bottom: 3%;
+    box-shadow: 10px 10px 5px rgba(128, 128, 128, 0.179);
+    background: url(../public/assets/images/icons/icon-birthday-35.png) no-repeat center
+     left 20px rgb(253, 253, 253)
+}
+.phone{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 60%;
+    padding-left: 70px;
+    padding-top: 3%;
+    font-family: Kanit;
+    padding-bottom: 3%;
+    box-shadow: 10px 10px 5px rgba(128, 128, 128, 0.179);
+    background: url(../public/assets/images/icons/icon-phone-35.png) no-repeat center
+     left 20px rgb(253, 253, 253)
+}
+.imge{
+    padding-left: 50%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 60%;
+    padding-left: 60px;
+    padding-top: 3%;
+    font-size: 16px;
+    font-family: Kanit;
+    padding-bottom: 3%;
+    box-shadow: 10px 10px 5px rgba(128, 128, 128, 0.179);
+    background: url(../public/assets/images/icons/icon-image-35.png) no-repeat center
+      left 20px rgb(253, 253, 253) ;
+}
+/* .range-input{
+  margin-left: 20%;
+} */

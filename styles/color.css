@@ -1,0 +1,73 @@
+
+    /* Background */
+.b-purple {
+    background-color: #9000ff8b;
+}
+.b-purple-list {
+    background: #b8b8f067;
+}
+.b-black-list {
+    background-color: rgb(0, 0, 0);
+}
+.b-black {
+    background-color: rgba(0, 0, 0, 0.833);
+}
+.b-grey {
+    background-color: rgb(162, 159, 159);
+}
+.b-white {
+    background-color: #ffffff;
+}
+.b-gleen {
+    background: linear-gradient(180deg, rgba(78, 74, 74, 0.871) 0%, #4d4e4aba 100%) !important;
+}
+    /* Hover Background*/
+
+.b-white-h:hover {
+    box-sizing: border-box;
+    background-color: #ffffff;
+}
+.b-black-h:hover {
+    box-sizing: border-box;
+    background-color: rgba(78, 74, 74, 0.871);
+}
+.b-blue-l{
+    background: linear-gradient(180deg, #adcef135 0%, #dbeafc 100%) !important;
+}
+    /* สีเส้น */
+.s-black{
+    box-sizing: border-box;
+    border: 2px solid rgba(7, 7, 7, 0.871);
+}
+.s-black-h:hover { 
+    box-sizing: border-box; 
+    box-sizing: border-box;
+    border: 2px solid rgba(78, 74, 74, 0.871);
+}
+    /* Hover Color*/
+.white-h:hover {
+    color: #ffffff;
+}
+.white1-h:hover {
+    color: #ffffffad;
+}
+.black-h:hover {
+    color: black;
+}
+.gay-h:hover {
+    color: rgba(78, 74, 74, 0.871);
+}
+
+    /* Color */
+.white {
+    color: rgb(255, 255, 255);
+}
+.grey {
+    color: rgb(162, 159, 159);
+}
+.black {
+    color: black;
+}
+.gleen{
+    color: #00ff00;
+}
